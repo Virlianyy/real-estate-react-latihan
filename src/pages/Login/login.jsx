@@ -1,11 +1,5 @@
-import React from 'react'
-
-function login() {
-  return (
-    <div>
-      
-    </div>
-  )
+function Login() {
+  return <p>login works!</p>
 }
 
-export default login
+export default Login
